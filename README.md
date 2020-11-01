@@ -1,8 +1,8 @@
 # SRGAN-for-MRI
 this project is using to super_revolution MRI pfhotograph
-Limited by the resolution of mri devices (160*160)
+Limited by the resolution of MRI devices.
 Super resolution can give doctors a clearer picture.
-受限于核磁共振设备的分辨能力（160*160）
+受限于核磁共振设备的分辨率。
 超分辨率可以为医生提供更为清晰的图像。
 
 #Input:
